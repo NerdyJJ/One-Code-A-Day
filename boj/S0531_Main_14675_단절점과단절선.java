@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main_14675_단절점과단절선 {
+public class S0531_Main_14675_단절점과단절선 {
 
 	// https://www.acmicpc.net/problem/14675
 
